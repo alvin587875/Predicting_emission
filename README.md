@@ -58,8 +58,8 @@ Using NPRI data, this project aims to provide insights into industry emissions t
 1. Clone this repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone <https://github.com/alvin587875/Predicting_emission>
+   cd <Predicting_emission>
    ```
 
 2. Install dependencies:
