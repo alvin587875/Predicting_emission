@@ -1,3 +1,10 @@
+# Kijiji-Rental-
+Analyses of rental property for small community all around Canada 
+<p align = "center" draggable=”false” ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HNB-ex4xb4H3-PXRcywP5zKC_3U8VzQTPA&usqp=CAU" 
+     width="200px"
+     height="auto"/>
+</p>
+
 # NPRI Emissions Prediction
 
 This project predicts future emissions for various industries using data from the National Pollutant Release Inventory (NPRI). The work involves data exploration, visualization, preprocessing, and training machine learning models to provide accurate forecasts.
